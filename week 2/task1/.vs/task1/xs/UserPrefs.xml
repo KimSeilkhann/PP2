@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.task1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="task1/Program.cs">
     <Files>
-      <File FileName="task1/Program.cs" Line="9" Column="49" />
+      <File FileName="task1/Program.cs" Line="27" Column="10" />
       <File FileName="task1/input.txt" Line="1" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
