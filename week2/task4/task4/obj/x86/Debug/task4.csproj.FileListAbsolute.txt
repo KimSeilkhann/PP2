@@ -1,0 +1,6 @@
+/Users/kymbatseilkhan/Desktop/PP2/week2/task4/task4/obj/x86/Debug/task4.csprojAssemblyReference.cache
+/Users/kymbatseilkhan/Desktop/PP2/week2/task4/task4/obj/x86/Debug/task4.csproj.CoreCompileInputs.cache
+/Users/kymbatseilkhan/Desktop/PP2/week2/task4/task4/bin/Debug/task4.exe
+/Users/kymbatseilkhan/Desktop/PP2/week2/task4/task4/bin/Debug/task4.pdb
+/Users/kymbatseilkhan/Desktop/PP2/week2/task4/task4/obj/x86/Debug/task4.exe
+/Users/kymbatseilkhan/Desktop/PP2/week2/task4/task4/obj/x86/Debug/task4.pdb
