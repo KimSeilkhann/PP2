@@ -1,0 +1,6 @@
+/Users/kymbatseilkhan/Desktop/PP2/week3/1far/1far/obj/x86/Debug/1far.csprojAssemblyReference.cache
+/Users/kymbatseilkhan/Desktop/PP2/week3/1far/1far/obj/x86/Debug/1far.csproj.CoreCompileInputs.cache
+/Users/kymbatseilkhan/Desktop/PP2/week3/1far/1far/bin/Debug/1far.exe
+/Users/kymbatseilkhan/Desktop/PP2/week3/1far/1far/bin/Debug/1far.pdb
+/Users/kymbatseilkhan/Desktop/PP2/week3/1far/1far/obj/x86/Debug/1far.exe
+/Users/kymbatseilkhan/Desktop/PP2/week3/1far/1far/obj/x86/Debug/1far.pdb
