@@ -87,11 +87,11 @@ namespace far
             FileSystemInfo[] fs = directory.GetFileSystemInfos(); // array of files and directories from our parent directory
             for (int i = 0, t = 0; i < fs.Length; i++)      // iterate through files and dir-s
             {
-                if (isHidden == false && fs[i].Name[0] == '.')      // t - номер
+                if (isHidden == false && fs[i].Name[0] == '.')      // t - numeraciya kajdogo file or dir
                 {
                     continue;                                   // if it is hidden file , continue
                 }
-                if (t >= L && t <= R)       // если 
+                if (t >= L && t <= R)       // L R ogranicheniya vyvoda papok na konsoli 
                 {
                     Color(fs[i], t);
                     Console.WriteLine(t + 1 + ". " + fs[i].Name);
@@ -100,7 +100,7 @@ namespace far
             }
         }
 
-        public void Ustige()
+        public void Ustige()        //method to go up 
         {
             curs--;
             if (curs < 0)
@@ -116,7 +116,7 @@ namespace far
            
             }
         }
-        public void Astyga()
+        public void Astyga()    //method to go down
         {
             curs++;
             if (curs == size)
@@ -132,7 +132,7 @@ namespace far
                 L++;
             }
         }
-        public void OpenFile()
+        public void OpenFile()      //method to open file txt
         {
             Console.Clear();
             Console.BackgroundColor = ConsoleColor.White;
@@ -143,9 +143,9 @@ namespace far
             Console.ReadKey();
         }
      
-        public void Nachalo()
+        public void Nachalo()       // osnovnaya func. 
         { 
-            L = 0; R = Math.Min(9, size);
+            L = 0; R = Math.Min(9, size);       //zadaem ogranicheniya L R dlya konsoli
             SizeCnt();
             Show();
             ConsoleKeyInfo consoleKey = Console.ReadKey();
@@ -154,7 +154,7 @@ namespace far
 
                 SizeCnt();
                 Show();
-                consoleKey = Console.ReadKey();
+                consoleKey = Console.ReadKey();     //proveryaem kakuyu button nazhali i dalwe zapuskaem nuzhnuyu func.
                 if(consoleKey.Key == ConsoleKey.UpArrow)
                 {
                     Ustige();
@@ -163,7 +163,7 @@ namespace far
                 {
                     Astyga();
                 }
-                if (consoleKey.Key == ConsoleKey.RightArrow)
+                if (consoleKey.Key == ConsoleKey.RightArrow)   //proverka dlya hidden files     
                 {
                     isHidden= false;
                     curs = 0;
@@ -173,7 +173,7 @@ namespace far
                     curs = 0;
                     isHidden = true;
                 }
-                if(consoleKey.Key == ConsoleKey.Enter)
+                if(consoleKey.Key == ConsoleKey.Enter)  //otkrytie file or dir 
                 {
                     if(currentFs is DirectoryInfo)
                     {
@@ -184,33 +184,28 @@ namespace far
                         L = 0;
                         R = fs.Length - 1;
                     }
-                    if(currentFs is FileInfo)
+                    if (currentFs is FileInfo)
                     {
-                        //string old_path = path;
-                        //path = currentFs.FullName;
                         OpenFile();
-                        //path = old_path;
-                        
                     }
-
                 }
 
                 if(consoleKey.Key == ConsoleKey.D)
                 {
-                    Oshiru();
+                    Oshiru();               //udalenie
                 }
                 if(consoleKey.Key == ConsoleKey.R)
                 {
-                    AtynAuystyru();
+                    AtynAuystyru();     //rename file or dir
                 }
 
-                if (consoleKey.Key == ConsoleKey.Backspace)
+                if (consoleKey.Key == ConsoleKey.Backspace)     //nazad 
                 {
                     curs = 0;                    
-                    path = directory.Parent.FullName;
+                    path = directory.Parent.FullName;       //menyaem path, dir i syst.info na tot chto byl ran'we
                     directory = new DirectoryInfo(path);
                     FileSystemInfo[] fs = directory.GetFileSystemInfos();
-                    L = 0;
+                    L = 0;                  //zadaem novye ogranicheniya
                     R = fs.Length - 1;
                 }
 
