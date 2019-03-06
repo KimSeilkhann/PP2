@@ -1,0 +1,11 @@
+/Users/kymbatseilkhan/Desktop/PP2/week6/SnakeGame/SnakeGame/obj/Debug/netcoreapp2.0/SnakeGame.csprojAssemblyReference.cache
+/Users/kymbatseilkhan/Desktop/PP2/week6/SnakeGame/SnakeGame/obj/Debug/netcoreapp2.0/SnakeGame.csproj.CoreCompileInputs.cache
+/Users/kymbatseilkhan/Desktop/PP2/week6/SnakeGame/SnakeGame/obj/Debug/netcoreapp2.0/SnakeGame.AssemblyInfoInputs.cache
+/Users/kymbatseilkhan/Desktop/PP2/week6/SnakeGame/SnakeGame/obj/Debug/netcoreapp2.0/SnakeGame.AssemblyInfo.cs
+/Users/kymbatseilkhan/Desktop/PP2/week6/SnakeGame/SnakeGame/bin/Debug/netcoreapp2.0/SnakeGame.deps.json
+/Users/kymbatseilkhan/Desktop/PP2/week6/SnakeGame/SnakeGame/bin/Debug/netcoreapp2.0/SnakeGame.runtimeconfig.json
+/Users/kymbatseilkhan/Desktop/PP2/week6/SnakeGame/SnakeGame/bin/Debug/netcoreapp2.0/SnakeGame.runtimeconfig.dev.json
+/Users/kymbatseilkhan/Desktop/PP2/week6/SnakeGame/SnakeGame/bin/Debug/netcoreapp2.0/SnakeGame.dll
+/Users/kymbatseilkhan/Desktop/PP2/week6/SnakeGame/SnakeGame/bin/Debug/netcoreapp2.0/SnakeGame.pdb
+/Users/kymbatseilkhan/Desktop/PP2/week6/SnakeGame/SnakeGame/obj/Debug/netcoreapp2.0/SnakeGame.dll
+/Users/kymbatseilkhan/Desktop/PP2/week6/SnakeGame/SnakeGame/obj/Debug/netcoreapp2.0/SnakeGame.pdb
