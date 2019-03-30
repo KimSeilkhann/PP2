@@ -1,24 +1,22 @@
 ﻿<Properties StartupConfiguration="{638FE4C0-2DFA-405E-9EB6-AE847776FAD1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SnakeGame/level2.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SnakeGame/level3.txt">
     <Files>
-      <File FileName="SnakeGame/Program.cs" Line="9" Column="43" />
-      <File FileName="SnakeGame/GameObject.cs" Line="41" Column="19" />
-      <File FileName="SnakeGame/Point.cs" Line="9" Column="24" />
-      <File FileName="SnakeGame/Game.cs" Line="36" Column="29" />
-      <File FileName="SnakeGame/Snake.cs" Line="14" Column="46" />
-      <File FileName="SnakeGame/Food.cs" Line="2" Column="20" />
-      <File FileName="SnakeGame/Wall.cs" Line="39" Column="9" />
-      <File FileName="SnakeGame/level1.txt" Line="5" Column="34" />
-      <File FileName="SnakeGame/level2.txt" Line="16" Column="62" />
-      <File FileName="SnakeGame/level3.txt" Line="25" Column="1" />
+      <File FileName="SnakeGame/Program.cs" Line="14" Column="2" />
+      <File FileName="SnakeGame/Point.cs" Line="10" Column="23" />
+      <File FileName="SnakeGame/GameObject.cs" Line="12" Column="10" />
+      <File FileName="SnakeGame/Game.cs" Line="21" Column="30" />
+      <File FileName="SnakeGame/Wall.cs" Line="18" Column="45" />
+      <File FileName="SnakeGame/Snake.cs" Line="82" Column="6" />
+      <File FileName="SnakeGame/Food.cs" Line="20" Column="2" />
+      <File FileName="SnakeGame/level1.txt" Line="26" Column="1" />
+      <File FileName="SnakeGame/level2.txt" Line="19" Column="1" />
+      <File FileName="SnakeGame/level3.txt" Line="19" Column="81" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/kymbatseilkhan/Desktop/PP2/week6/SnakeGame/SnakeGame/Game.cs" relfile="SnakeGame/Game.cs" line="13" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.SnakeGame PreferredExecutionTarget="MonoDevelop.Default" />

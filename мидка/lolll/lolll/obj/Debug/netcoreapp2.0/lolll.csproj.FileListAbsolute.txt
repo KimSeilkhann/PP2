@@ -1,0 +1,11 @@
+/Users/kymbatseilkhan/Desktop/lolll/lolll/bin/Debug/netcoreapp2.0/lolll.deps.json
+/Users/kymbatseilkhan/Desktop/lolll/lolll/bin/Debug/netcoreapp2.0/lolll.runtimeconfig.json
+/Users/kymbatseilkhan/Desktop/lolll/lolll/bin/Debug/netcoreapp2.0/lolll.runtimeconfig.dev.json
+/Users/kymbatseilkhan/Desktop/lolll/lolll/bin/Debug/netcoreapp2.0/lolll.dll
+/Users/kymbatseilkhan/Desktop/lolll/lolll/bin/Debug/netcoreapp2.0/lolll.pdb
+/Users/kymbatseilkhan/Desktop/lolll/lolll/obj/Debug/netcoreapp2.0/lolll.csprojAssemblyReference.cache
+/Users/kymbatseilkhan/Desktop/lolll/lolll/obj/Debug/netcoreapp2.0/lolll.csproj.CoreCompileInputs.cache
+/Users/kymbatseilkhan/Desktop/lolll/lolll/obj/Debug/netcoreapp2.0/lolll.AssemblyInfoInputs.cache
+/Users/kymbatseilkhan/Desktop/lolll/lolll/obj/Debug/netcoreapp2.0/lolll.AssemblyInfo.cs
+/Users/kymbatseilkhan/Desktop/lolll/lolll/obj/Debug/netcoreapp2.0/lolll.dll
+/Users/kymbatseilkhan/Desktop/lolll/lolll/obj/Debug/netcoreapp2.0/lolll.pdb

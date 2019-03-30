@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading;
 namespace SnakeGame
 {
     public class Game
@@ -9,6 +10,7 @@ namespace SnakeGame
         public Snake snake;
         public Food food;
         public Wall wall;
+       // public Dictionary<TKey, TValue>;
 
         public Game()
         {
@@ -29,15 +31,31 @@ namespace SnakeGame
 
         public void Start()
         {
-            Console.SetCursorPosition(Console.WindowWidth / 2, Console.WindowHeight / 2);
+            //Console.SetCursorPosition(1, 100);
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Hello! Please, write your username");
-            Console.WriteLine(Console.WindowWidth + " " + Console.WindowHeight);
+
+            string username = Console.ReadLine();
+            Thread thread = new Thread(MoveSnake);
+            thread.Start();
             ConsoleKeyInfo keyInfo = Console.ReadKey();
             Console.Clear();
             while (isAlive && keyInfo.Key != ConsoleKey.Escape)
             {
-                Draw();
                 keyInfo = Console.ReadKey();
+                snake.CheckDirection(keyInfo);
+            }
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.SetCursorPosition(20, 10);
+            Console.WriteLine("GAME OVER!!!");
+        }
+        public void MoveSnake()
+        {
+            int x = 500;
+            while (isAlive)
+            {
+                snake.Move();
                 if (snake.IsCollisionWithObject(food))
                 {
                     snake.body.Add(new Point(0, 0));
@@ -46,17 +64,18 @@ namespace SnakeGame
 
                     if (snake.body.Count % 3 == 0)
                         wall.NextLevel();
+                    x /= 2;
+
                 }
                 if (snake.IsCollisionWithObject(wall))
                 {
                     isAlive = false;
                 }
-                snake.Move(keyInfo);
+                Draw();
+             
+                    Thread.Sleep(x);
+            
             }
-            Console.Clear();
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.SetCursorPosition(20, 10);
-            Console.WriteLine("GAME OVER!!!");
         }
         public void Draw()
         {

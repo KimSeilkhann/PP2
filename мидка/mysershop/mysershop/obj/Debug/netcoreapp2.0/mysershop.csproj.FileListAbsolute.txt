@@ -1,0 +1,11 @@
+/Users/kymbatseilkhan/Desktop/mysershop/mysershop/bin/Debug/netcoreapp2.0/mysershop.deps.json
+/Users/kymbatseilkhan/Desktop/mysershop/mysershop/bin/Debug/netcoreapp2.0/mysershop.runtimeconfig.json
+/Users/kymbatseilkhan/Desktop/mysershop/mysershop/bin/Debug/netcoreapp2.0/mysershop.runtimeconfig.dev.json
+/Users/kymbatseilkhan/Desktop/mysershop/mysershop/bin/Debug/netcoreapp2.0/mysershop.dll
+/Users/kymbatseilkhan/Desktop/mysershop/mysershop/bin/Debug/netcoreapp2.0/mysershop.pdb
+/Users/kymbatseilkhan/Desktop/mysershop/mysershop/obj/Debug/netcoreapp2.0/mysershop.csprojAssemblyReference.cache
+/Users/kymbatseilkhan/Desktop/mysershop/mysershop/obj/Debug/netcoreapp2.0/mysershop.csproj.CoreCompileInputs.cache
+/Users/kymbatseilkhan/Desktop/mysershop/mysershop/obj/Debug/netcoreapp2.0/mysershop.AssemblyInfoInputs.cache
+/Users/kymbatseilkhan/Desktop/mysershop/mysershop/obj/Debug/netcoreapp2.0/mysershop.AssemblyInfo.cs
+/Users/kymbatseilkhan/Desktop/mysershop/mysershop/obj/Debug/netcoreapp2.0/mysershop.dll
+/Users/kymbatseilkhan/Desktop/mysershop/mysershop/obj/Debug/netcoreapp2.0/mysershop.pdb

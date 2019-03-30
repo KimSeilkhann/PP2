@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A7B12D1D-6E77-4C15-B9B0-7C46EF6E1B3F}|Default">
+  <MonoDevelop.Ide.ItemProperties.eweodin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="eweodin/Program.cs">
+    <Files>
+      <File FileName="eweodin/Program.cs" Line="33" Column="1" />
+      <File FileName="eweodin/Point.cs" Line="37" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

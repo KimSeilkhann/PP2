@@ -20,8 +20,7 @@ namespace SnakeGame
         }
         public void CheckDirection(ConsoleKeyInfo keyInfo)
         {
-            if (direction == Direction.NONE)
-            {
+          
                 if (keyInfo.Key == ConsoleKey.UpArrow)
                     direction = Direction.UP;
                 if (keyInfo.Key == ConsoleKey.DownArrow)
@@ -30,8 +29,8 @@ namespace SnakeGame
                     direction = Direction.LEFT;
                 if (keyInfo.Key == ConsoleKey.RightArrow)
                     direction = Direction.RIGHT;
-            }
-          
+                CanUMove(keyInfo);
+
         }
         public void CanUMove(ConsoleKeyInfo keyInfo)
         { 
@@ -57,31 +56,27 @@ namespace SnakeGame
             }
             ok = true;
         }
-        public void Move(ConsoleKeyInfo keyInfo)
+        public void Move()
         {
-            CheckDirection(keyInfo);
-            CanUMove(keyInfo);
-         
-            if (ok)
+            if (direction == Direction.NONE)
+                return;
+
+            for (int i = body.Count - 1; i > 0; i--)
             {
-                for (int i = body.Count - 1; i > 0; i--)
-                {
-                    body[i].x = body[i - 1].x;
-                    body[i].y = body[i - 1].y;
-                }
-                if (keyInfo.Key == ConsoleKey.UpArrow)
-                    body[0].y--;
-                if (keyInfo.Key == ConsoleKey.DownArrow)
-                    body[0].y++;
-                if (keyInfo.Key == ConsoleKey.LeftArrow)
-                    body[0].x--;
-                if (keyInfo.Key == ConsoleKey.RightArrow)
-                    body[0].x++;
-                direction = Direction.NONE;
-                CheckDirection(keyInfo);
+                body[i].x = body[i - 1].x;
+                body[i].y = body[i - 1].y;
             }
+
+            if (direction == Direction.UP)
+                body[0].y--;
+            if (direction == Direction.DOWN)
+                body[0].y++;
+            if (direction == Direction.LEFT)
+                body[0].x--;
+            if (direction == Direction.RIGHT)
+                body[0].x++;
+        }
           
         }
       
     }
-}

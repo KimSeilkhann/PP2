@@ -23,20 +23,20 @@ namespace far
         public void AtynAuystyru()         //method to rename file or directory
         {
             Console.Clear();
-            Console.WriteLine("Please, write new name ");
+            Console.WriteLine("Please write new name ");
             string name = Console.ReadLine();
             if(currentFs is FileInfo)
             {
-                string begin = path + '/' + currentFs.Name;
-                string ext= Path.GetExtension(currentFs.Name); 
-                string end = path + '/' + name + ext;
-                File.Move(@begin, @end); 
+                string begin = path + "/" + currentFs.Name;
+                string extension = Path.GetExtension(currentFs.Name);
+                string end = path + "/"+ name + extension;
+                File.Move(@begin, @end);
             }
             else
             {
-                DirectoryInfo d = new DirectoryInfo(currentFs.FullName);
-                string begin = d.FullName;
-                string end = d.Parent.FullName + '/' + name;
+                DirectoryInfo dirr = new DirectoryInfo(currentFs.FullName);
+                string begin = dirr.FullName;
+                string end = dirr.Parent.FullName + "/" + name;
                 Directory.Move(@begin, @end);
             }
         }

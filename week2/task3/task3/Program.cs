@@ -33,9 +33,10 @@ namespace task3
 
         public static void Main(string[] args)
         {
-            string path = Console.ReadLine();   // we can read string path from the console, but i take as example my own path
+            string path = Console.ReadLine();   // read string path from the console 
             DirectoryInfo dirr = new DirectoryInfo(path);    // take information about our directory from the string path
             Direc(dirr, 0);     //call the method Direc, dir - inf. about directory , 0 - first line level
       }
     }
 }
+//gooooood luck 

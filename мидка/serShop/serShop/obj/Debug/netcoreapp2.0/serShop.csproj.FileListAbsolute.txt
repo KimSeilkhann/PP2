@@ -1,0 +1,11 @@
+/Users/kymbatseilkhan/Desktop/serShop/serShop/bin/Debug/netcoreapp2.0/serShop.deps.json
+/Users/kymbatseilkhan/Desktop/serShop/serShop/bin/Debug/netcoreapp2.0/serShop.runtimeconfig.json
+/Users/kymbatseilkhan/Desktop/serShop/serShop/bin/Debug/netcoreapp2.0/serShop.runtimeconfig.dev.json
+/Users/kymbatseilkhan/Desktop/serShop/serShop/bin/Debug/netcoreapp2.0/serShop.dll
+/Users/kymbatseilkhan/Desktop/serShop/serShop/bin/Debug/netcoreapp2.0/serShop.pdb
+/Users/kymbatseilkhan/Desktop/serShop/serShop/obj/Debug/netcoreapp2.0/serShop.csprojAssemblyReference.cache
+/Users/kymbatseilkhan/Desktop/serShop/serShop/obj/Debug/netcoreapp2.0/serShop.csproj.CoreCompileInputs.cache
+/Users/kymbatseilkhan/Desktop/serShop/serShop/obj/Debug/netcoreapp2.0/serShop.AssemblyInfoInputs.cache
+/Users/kymbatseilkhan/Desktop/serShop/serShop/obj/Debug/netcoreapp2.0/serShop.AssemblyInfo.cs
+/Users/kymbatseilkhan/Desktop/serShop/serShop/obj/Debug/netcoreapp2.0/serShop.dll
+/Users/kymbatseilkhan/Desktop/serShop/serShop/obj/Debug/netcoreapp2.0/serShop.pdb

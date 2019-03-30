@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{071ECE00-5B47-4118-91A9-DD01B7D511BD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="stena/Program.cs">
+    <Files>
+      <File FileName="stena/Program.cs" Line="17" Column="55" />
+      <File FileName="stena/body.cs" Line="6" Column="3" />
+      <File FileName="stena/rer7txt.txt" Line="23" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.stena PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

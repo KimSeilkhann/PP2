@@ -14,7 +14,7 @@ namespace SnakeGame
         }
 
         GameLevel gameLevel = GameLevel.FIRST;
-
+       
         public Wall(char sign, ConsoleColor color) : base(0, 0, sign, color)
         {
             body = new List<Point>();
@@ -39,11 +39,19 @@ namespace SnakeGame
 
         public void NextLevel()
         {
+
             if (gameLevel == GameLevel.FIRST)
+            {
+               
                 gameLevel = GameLevel.SECOND;
+            }
             else if (gameLevel == GameLevel.SECOND)
+            {
+               
                 gameLevel = GameLevel.THIRD;
+            }
             LoadLevel();
         }
+       
     }
 }

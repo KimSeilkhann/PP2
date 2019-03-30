@@ -1,0 +1,11 @@
+/Users/kymbatseilkhan/Desktop/stena/stena/obj/Debug/netcoreapp2.0/stena.csprojAssemblyReference.cache
+/Users/kymbatseilkhan/Desktop/stena/stena/obj/Debug/netcoreapp2.0/stena.csproj.CoreCompileInputs.cache
+/Users/kymbatseilkhan/Desktop/stena/stena/obj/Debug/netcoreapp2.0/stena.AssemblyInfoInputs.cache
+/Users/kymbatseilkhan/Desktop/stena/stena/obj/Debug/netcoreapp2.0/stena.AssemblyInfo.cs
+/Users/kymbatseilkhan/Desktop/stena/stena/bin/Debug/netcoreapp2.0/stena.deps.json
+/Users/kymbatseilkhan/Desktop/stena/stena/bin/Debug/netcoreapp2.0/stena.runtimeconfig.json
+/Users/kymbatseilkhan/Desktop/stena/stena/bin/Debug/netcoreapp2.0/stena.runtimeconfig.dev.json
+/Users/kymbatseilkhan/Desktop/stena/stena/bin/Debug/netcoreapp2.0/stena.dll
+/Users/kymbatseilkhan/Desktop/stena/stena/bin/Debug/netcoreapp2.0/stena.pdb
+/Users/kymbatseilkhan/Desktop/stena/stena/obj/Debug/netcoreapp2.0/stena.dll
+/Users/kymbatseilkhan/Desktop/stena/stena/obj/Debug/netcoreapp2.0/stena.pdb

@@ -1,0 +1,11 @@
+/Users/kymbatseilkhan/Desktop/svet/svet/bin/Debug/netcoreapp2.0/svet.deps.json
+/Users/kymbatseilkhan/Desktop/svet/svet/bin/Debug/netcoreapp2.0/svet.runtimeconfig.json
+/Users/kymbatseilkhan/Desktop/svet/svet/bin/Debug/netcoreapp2.0/svet.runtimeconfig.dev.json
+/Users/kymbatseilkhan/Desktop/svet/svet/bin/Debug/netcoreapp2.0/svet.dll
+/Users/kymbatseilkhan/Desktop/svet/svet/bin/Debug/netcoreapp2.0/svet.pdb
+/Users/kymbatseilkhan/Desktop/svet/svet/obj/Debug/netcoreapp2.0/svet.csprojAssemblyReference.cache
+/Users/kymbatseilkhan/Desktop/svet/svet/obj/Debug/netcoreapp2.0/svet.csproj.CoreCompileInputs.cache
+/Users/kymbatseilkhan/Desktop/svet/svet/obj/Debug/netcoreapp2.0/svet.AssemblyInfoInputs.cache
+/Users/kymbatseilkhan/Desktop/svet/svet/obj/Debug/netcoreapp2.0/svet.AssemblyInfo.cs
+/Users/kymbatseilkhan/Desktop/svet/svet/obj/Debug/netcoreapp2.0/svet.dll
+/Users/kymbatseilkhan/Desktop/svet/svet/obj/Debug/netcoreapp2.0/svet.pdb

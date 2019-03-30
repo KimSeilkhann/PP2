@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9B6398F1-FF43-4058-8996-0E3D3D49222D}|Default">
+  <MonoDevelop.Ide.ItemProperties.mysershop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="mysershop/Program.cs">
+    <Files>
+      <File FileName="mysershop/Program.cs" Line="10" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

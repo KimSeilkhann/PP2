@@ -1,0 +1,11 @@
+/Users/kymbatseilkhan/Desktop/eweodin/eweodin/bin/Debug/netcoreapp2.0/eweodin.deps.json
+/Users/kymbatseilkhan/Desktop/eweodin/eweodin/bin/Debug/netcoreapp2.0/eweodin.runtimeconfig.json
+/Users/kymbatseilkhan/Desktop/eweodin/eweodin/bin/Debug/netcoreapp2.0/eweodin.runtimeconfig.dev.json
+/Users/kymbatseilkhan/Desktop/eweodin/eweodin/bin/Debug/netcoreapp2.0/eweodin.dll
+/Users/kymbatseilkhan/Desktop/eweodin/eweodin/bin/Debug/netcoreapp2.0/eweodin.pdb
+/Users/kymbatseilkhan/Desktop/eweodin/eweodin/obj/Debug/netcoreapp2.0/eweodin.csprojAssemblyReference.cache
+/Users/kymbatseilkhan/Desktop/eweodin/eweodin/obj/Debug/netcoreapp2.0/eweodin.csproj.CoreCompileInputs.cache
+/Users/kymbatseilkhan/Desktop/eweodin/eweodin/obj/Debug/netcoreapp2.0/eweodin.AssemblyInfoInputs.cache
+/Users/kymbatseilkhan/Desktop/eweodin/eweodin/obj/Debug/netcoreapp2.0/eweodin.AssemblyInfo.cs
+/Users/kymbatseilkhan/Desktop/eweodin/eweodin/obj/Debug/netcoreapp2.0/eweodin.dll
+/Users/kymbatseilkhan/Desktop/eweodin/eweodin/obj/Debug/netcoreapp2.0/eweodin.pdb

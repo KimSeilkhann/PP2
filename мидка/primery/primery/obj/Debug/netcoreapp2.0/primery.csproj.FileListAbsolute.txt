@@ -1,0 +1,11 @@
+/Users/kymbatseilkhan/Desktop/primery/primery/bin/Debug/netcoreapp2.0/primery.deps.json
+/Users/kymbatseilkhan/Desktop/primery/primery/bin/Debug/netcoreapp2.0/primery.runtimeconfig.json
+/Users/kymbatseilkhan/Desktop/primery/primery/bin/Debug/netcoreapp2.0/primery.runtimeconfig.dev.json
+/Users/kymbatseilkhan/Desktop/primery/primery/bin/Debug/netcoreapp2.0/primery.dll
+/Users/kymbatseilkhan/Desktop/primery/primery/bin/Debug/netcoreapp2.0/primery.pdb
+/Users/kymbatseilkhan/Desktop/primery/primery/obj/Debug/netcoreapp2.0/primery.csprojAssemblyReference.cache
+/Users/kymbatseilkhan/Desktop/primery/primery/obj/Debug/netcoreapp2.0/primery.csproj.CoreCompileInputs.cache
+/Users/kymbatseilkhan/Desktop/primery/primery/obj/Debug/netcoreapp2.0/primery.AssemblyInfoInputs.cache
+/Users/kymbatseilkhan/Desktop/primery/primery/obj/Debug/netcoreapp2.0/primery.AssemblyInfo.cs
+/Users/kymbatseilkhan/Desktop/primery/primery/obj/Debug/netcoreapp2.0/primery.dll
+/Users/kymbatseilkhan/Desktop/primery/primery/obj/Debug/netcoreapp2.0/primery.pdb

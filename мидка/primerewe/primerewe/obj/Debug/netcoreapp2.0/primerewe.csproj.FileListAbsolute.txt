@@ -1,0 +1,11 @@
+/Users/kymbatseilkhan/Desktop/primerewe/primerewe/bin/Debug/netcoreapp2.0/primerewe.deps.json
+/Users/kymbatseilkhan/Desktop/primerewe/primerewe/bin/Debug/netcoreapp2.0/primerewe.runtimeconfig.json
+/Users/kymbatseilkhan/Desktop/primerewe/primerewe/bin/Debug/netcoreapp2.0/primerewe.runtimeconfig.dev.json
+/Users/kymbatseilkhan/Desktop/primerewe/primerewe/bin/Debug/netcoreapp2.0/primerewe.dll
+/Users/kymbatseilkhan/Desktop/primerewe/primerewe/bin/Debug/netcoreapp2.0/primerewe.pdb
+/Users/kymbatseilkhan/Desktop/primerewe/primerewe/obj/Debug/netcoreapp2.0/primerewe.csprojAssemblyReference.cache
+/Users/kymbatseilkhan/Desktop/primerewe/primerewe/obj/Debug/netcoreapp2.0/primerewe.csproj.CoreCompileInputs.cache
+/Users/kymbatseilkhan/Desktop/primerewe/primerewe/obj/Debug/netcoreapp2.0/primerewe.AssemblyInfoInputs.cache
+/Users/kymbatseilkhan/Desktop/primerewe/primerewe/obj/Debug/netcoreapp2.0/primerewe.AssemblyInfo.cs
+/Users/kymbatseilkhan/Desktop/primerewe/primerewe/obj/Debug/netcoreapp2.0/primerewe.dll
+/Users/kymbatseilkhan/Desktop/primerewe/primerewe/obj/Debug/netcoreapp2.0/primerewe.pdb
